@@ -1,0 +1,8 @@
+.container{
+    background-color: pink;
+    background: -webkit-linear-gradient(
+        to right, 
+        rgb#1d513f,
+        rgb(165, 197, 190)
+    );
+}
